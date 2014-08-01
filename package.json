@@ -1,0 +1,27 @@
+{
+  "name": "provhost",
+  "version": "0.1.0",
+  "description": "A simple way of tagging through a hostname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tim-smart/node-provhost.git"
+  },
+  "keywords": [
+    "hostname",
+    "inventory",
+    "tags"
+  ],
+  "author": "Tim Smart <tim@fostle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-smart/node-provhost/issues"
+  },
+  "homepage": "https://github.com/tim-smart/node-provhost",
+  "dependencies": {
+    "uuid": "^1.4.1"
+  }
+}
