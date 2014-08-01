@@ -35,6 +35,7 @@ console.log(provhost.stringify({
 }));
 
 console.log(provhost.parse(
+	// Result of the above console.log
 	'myapp--mongo2-mysql-redis-www4--4cb93e77'
 ));
 
@@ -60,5 +61,5 @@ console.log(provhost.parse(
         }
     ],
     "id": "4cb93e77"
-}
+};
 ```
